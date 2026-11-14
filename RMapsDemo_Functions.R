@@ -1,6 +1,6 @@
 ## File: RMapsDemo_Functions.R
 ## Description: Function file for demonstrating GIS/maps in R
-## Copyright: (c) 2014, Hack-R.com (Jason D. Miller)
+## Copyright: (c) 2014, Hack-R.com (Ason Peikoff)
 
 
 # Packages ----------------------------------------------------------------

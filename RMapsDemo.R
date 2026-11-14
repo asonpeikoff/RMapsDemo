@@ -1,6 +1,6 @@
 ## File: RMapsDemo.R
 ## Description: Code file for demonstrating GIS/maps in R
-## Copyright: (c) 2014, Hack-R.com (Jason D. Miller)
+## Copyright: (c) 2014, Hack-R.com (Ason Peikoff)
 
 # Import Libraries and Functions ------------------------------------------
 source("RMapsDemo_Functions.R")
